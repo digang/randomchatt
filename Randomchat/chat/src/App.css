@@ -74,3 +74,9 @@ form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 
   display : flex;
   flex-direction: row;
 }
+
+#findBtn{
+  margin-top : 1px;
+  padding : 2px ;
+  font-size : 1.5rem;
+}
